@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vivek Nariya</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Vivek Nariya 🚀</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CB00F7&random=false&width=435&lines=Software+Developer+With+Excellence." alt="Typing SVG" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveknariya&label=Profile%20views&color=0e75b6&style=flat" alt="viveknariya" /> </p>
 
