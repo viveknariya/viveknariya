@@ -9,13 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/_vivek_nariya_" target="blank"><img src="https://img.shields.io/twitter/follow/_vivek_nariya_?logo=twitter&style=for-the-badge" alt="_vivek_nariya_" /></a> </p>
 
-- 🔭 I’m currently working on [Automation Tools | AI Tools](Zallyy.com)
-
-- 🌱 I’m currently learning **FastAPI, AstroJS**
-
-- 👨‍💻 All of my projects are available at [Zallyy.com](Zallyy.com)
-
-- 📝 I regularly write articles on [Zallyy.com](Zallyy.com)
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Angular, .NET**
 
